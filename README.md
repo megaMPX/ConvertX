@@ -17,6 +17,8 @@ __GPU__: If possible
 
 ## __Installation__
 
+### [!!!!!Download the model!!!!!](https://drive.google.com/file/d/1azdQboVGH4DxSxXcVp6MYog8lgMIdIfx/view?usp=sharing)
+
 ### For Linux users:
 [RU]
 ! Рекомендовано использовать Python 3.9 !
