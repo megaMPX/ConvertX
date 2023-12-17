@@ -64,7 +64,10 @@ Fill in the file "__config.py__": \
 
 ### To launch the bot, run the file "bot_telegram.py "!!
 
-## Demo
+### Demo
 
+![me](https://github.com/megaMPX/ConvertX/blob/main/me.gif)
 
+### Contacts
+Telegram: [@r00ty0u](https://t.me/r00ty0u)
 
