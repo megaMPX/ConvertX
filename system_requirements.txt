@@ -1,0 +1,6 @@
+OC: Linux/Windows 7/8/10
+Python Version: 3.9
+Hard Disk Memory: 100MB+
+RAM: 1GB+
+CPU: ALL+
+GPU: If possible
